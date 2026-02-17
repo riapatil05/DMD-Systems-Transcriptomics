@@ -1,7 +1,7 @@
-# DMD-Systems-Transcriptomics
-Systems biology-driven transcriptomic analysis of Duchenne Muscular Dystrophy, integrating differential expression and pathway-level interpretation to characterize age-dependent disease progression.
+# Title: Systems-Level Transcriptomic Analysis of Age-Dependent Molecular Remodelling in Duchenne Muscular Dystrophy
 
-#Title: Systems-Level Transcriptomic Analysis of Age-Dependent Molecular Remodelling in Duchenne Muscular Dystrophy
+# Project Description
+Systems biology-driven transcriptomic analysis of Duchenne Muscular Dystrophy, integrating differential expression and pathway-level interpretation to characterize age-dependent disease progression.
 
 ## Overview
 This repository documents an in silico transcriptomic analysis of Duchenne Muscular Dystrophy (DMD) aimed at understanding how molecular programs evolve with age and disease progression. Using publicly available skeletal muscle gene expression data, the study adopts a systems biology framework to move beyond individual gene changes and instead characterize coordinated, mechanism-level transitions across disease stages.
@@ -79,24 +79,6 @@ Module assignments are validated using Gene Ontology (GO), KEGG, Reactome, and g
 - Oxidative phosphorylation and muscle structural modules display relative preservation in early disease followed by stabilization or decline at later stages.
 - The results support a coordinated molecular trajectory in which chronic inflammation and fibrotic remodelling progressively dominate over metabolic and structural maintenance.
 - Observed trends align with established histopathological and clinical features of Duchenne Muscular Dystrophy.
-
----
-
-## Repository Structure
-DMD-Systems-Transcriptomics/
-├── data/
-│ ├── raw/ # Links and references to GEO data (not included)
-│ └── processed/ # Intermediate processed datasets
-├── notebooks/
-│ ├── 01_data_loading.ipynb
-│ ├── 02_differential_expression.ipynb
-│ ├── 03_pathway_enrichment.ipynb
-│ ├── 04_mechanism_modules.ipynb
-│ └── 05_age_progression.ipynb
-├── results/
-│ ├── figures/ # Plots and visualizations
-│ └── tables/ # Summary result tables
-└── README.md
 
 ---
 
