@@ -1,6 +1,6 @@
-# Title: Systems-Level Transcriptomic Analysis of Age-Dependent Molecular Remodelling in Duchenne Muscular Dystrophy
+# Systems-Level Transcriptomic Analysis of Age-Dependent Molecular Remodelling in Duchenne Muscular Dystrophy
 
-# Project Description
+## Project Description
 Systems biology-driven transcriptomic analysis of Duchenne Muscular Dystrophy, integrating differential expression and pathway-level interpretation to characterize age-dependent disease progression.
 
 ## Overview
