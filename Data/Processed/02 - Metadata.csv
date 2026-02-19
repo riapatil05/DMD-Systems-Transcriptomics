@@ -1,0 +1,23 @@
+,sample_type,age_raw,tissue,disease_status,age_years,stage
+GSM941830,"""sample type: CONTROL""","""age: unknown""","""tissue: skeletal muscle""",Control,,Control
+GSM941831,"""sample type: CONTROL""","""age: unknown""","""tissue: skeletal muscle""",Control,,Control
+GSM941832,"""sample type: CONTROL""","""age: unknown""","""tissue: skeletal muscle""",Control,,Control
+GSM941833,"""sample type: CONTROL""","""age: unknown""","""tissue: skeletal muscle""",Control,,Control
+GSM941834,"""sample type: CONTROL""","""age: unknown""","""tissue: skeletal muscle""",Control,,Control
+GSM941835,"""sample type: CONTROL""","""age: unknown""","""tissue: skeletal muscle""",Control,,Control
+GSM941836,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 11mo""","""tissue: skeletal muscle""",DMD,0.9166666666666666,Early
+GSM941837,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 4yrs""","""tissue: skeletal muscle""",DMD,4.0,Mid
+GSM941838,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 1yr 8mo""","""tissue: skeletal muscle""",DMD,1.6666666666666663,Early
+GSM941839,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 4yrs""","""tissue: skeletal muscle""",DMD,4.0,Mid
+GSM941840,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 8yrs""","""tissue: skeletal muscle""",DMD,8.0,Late
+GSM941841,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 5yrs""","""tissue: skeletal muscle""",DMD,5.0,Mid
+GSM941842,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 6yrs""","""tissue: skeletal muscle""",DMD,6.0,Mid
+GSM941843,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 5yrs""","""tissue: skeletal muscle""",DMD,5.0,Mid
+GSM941844,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 4yrs""","""tissue: skeletal muscle""",DMD,4.0,Mid
+GSM941845,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 3yrs""","""tissue: skeletal muscle""",DMD,3.0,Mid
+GSM941846,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 3yrs""","""tissue: skeletal muscle""",DMD,3.0,Mid
+GSM941847,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 1yr 11mo""","""tissue: skeletal muscle""",DMD,1.9166666666666663,Early
+GSM941848,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 1yrs""","""tissue: skeletal muscle""",DMD,1.0,Early
+GSM941849,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 2yrs""","""tissue: skeletal muscle""",DMD,2.0,Early
+GSM941850,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 3yr 7mo""","""tissue: skeletal muscle""",DMD,3.583333333333333,Mid
+GSM941851,"""sample type: Duchenne muscular dystrophy (DMD) patient""","""age: 7yrs""","""tissue: skeletal muscle""",DMD,7.0,Late
